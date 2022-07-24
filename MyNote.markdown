@@ -28,3 +28,10 @@ arr: [1,5,7]
 **полужирный**
 
 ***полужирный курсив***
+
+```JS
+// this is comment
+var add = function(x, y) {
+  return x + y;
+};
+```
