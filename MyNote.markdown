@@ -7,3 +7,8 @@ arr: [1,5,7]
 
 
 # This is MarkDown Preview
+- write your math expression within $\$...\$$
+  - $f(x) - sin(x) + y_a$
+- write within $\$\$...\$\$$ to render in display mode
+  - $$\frac{1}{3} + 3x + 4y + \sum_{i=0}^{n}i$$
+  - $sin(x) = 1$
