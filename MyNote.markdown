@@ -35,3 +35,6 @@ var add = function(x, y) {
   return x + y;
 };
 ```
+
+<https://www.yandex.ru>
+<fake@example.com>
